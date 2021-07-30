@@ -1,0 +1,41 @@
+@font-face {
+    font-family: title;
+    src: url('../font/title.ttf');
+}
+@font-face {
+    font-family: team;
+    src: url('../font/teamname.ttf');
+}
+@font-face {
+    font-family: gold;
+    src: url('../font/gold.ttf');
+}
+/*fonts*/
+@font-face {
+    font-family: font55;
+    src: url('../font/fonts/font55.ttf');
+}
+@font-face {
+    font-family: font24;
+    src: url('../font/fonts/font24.ttf');
+}
+@font-face {
+    font-family: font49;
+    src: url('../font/fonts/font49.ttf');
+}
+@font-face {
+    font-family: font50;
+    src: url('../font/fonts/font50.ttf');
+}
+@font-face {
+    font-family: font71;
+    src: url('../font/fonts/font71.ttf');
+}
+@font-face {
+    font-family: font110;
+    src: url('../font/fonts/font110.ttf');
+}
+@font-face {
+    font-family: font138;
+    src: url('../font/fonts/font138.ttf');
+}

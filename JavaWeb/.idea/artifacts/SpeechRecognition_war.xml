@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpeechRecognition:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpeechRecognition_war</output-path>
+    <root id="archive" name="SpeechRecognition_war.war">
+      <element id="artifact" artifact-name="SpeechRecognition:war exploded" />
+    </root>
+  </artifact>
+</component>
